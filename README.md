@@ -204,7 +204,7 @@ This is a portfolio project, but feedback and suggestions are welcome! Feel free
 - Share insights or alternative approaches
 
 ## 📧 Contact
-
+- LinkedIn: (https://www.linkedin.com/in/majestyumoye/)
 - GitHub: [@moyez48](https://github.com/moyez48)
 - Repository: [Superstore-Sales-BI-Analysis](https://github.com/moyez48/Superstore-Sales-BI-Analysis)
 
