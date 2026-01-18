@@ -54,7 +54,7 @@ Seasonality Index is calculated for each sub-category by month:
 ## 📊 Key Findings
 
 ### National Performance
-- **Portfolio Mix**: 623 Star products, 986 Dead Zombies across 4 priority states
+- **Portfolio Mix**: 623 Stars, 934 Luxury, 251 Traffic Builders, 962 Dead Zombies, 307 New/Niche products across 4 priority states (3,077 total product-state classifications)
 - **Regional Leader**: West region (CA-focused) drives highest revenue
 - **Seasonal Peaks**: Q4 dominates (holiday shopping), September-December surge
 
@@ -64,8 +64,8 @@ Seasonality Index is calculated for each sub-category by month:
 |-------|-------|--------|---------|---------|-----------|
 | **New York** | 154 | 253 | 72 | 244 | 81 |
 | **California** | 308 | 289 | 128 | 361 | 97 |
-| **Texas** | 133 | 249 | 40 | 265 | 70 |
-| **Florida** | 28 | 143 | 11 | 116 | 35 |
+| **Texas** | 133 | 249 | 40 | 263 | 72 |
+| **Florida** | 28 | 143 | 11 | 94 | 57 |
 
 ## 💻 Technologies Used
 
@@ -179,10 +179,12 @@ If you cannot install Power BI Desktop:
 
 ## 📊 Results & Impact
 
-- **Data-Driven Segmentation**: 2,804 products classified into strategic categories
+- **Data-Driven Segmentation**: 3,077 product-state classifications across 5 strategic categories (1,849 unique products analyzed per state)
 - **Regional Prioritization**: 4 states identified for focused optimization (NY, CA, TX, FL)
 - **Seasonality Mapping**: 17 sub-categories analyzed across 12 months
 - **Executive Documentation**: Professional consulting-style report for stakeholder communication
+
+> **Note on Product Counts**: The 3,077 classifications represent products analyzed individually per state (804 in NY + 1,183 in CA + 757 in TX + 333 in FL). Since a single product can perform differently across states, it may be classified as a "Star" in California but a "Luxury" item in Texas. The dataset contains 1,849 unique products total.
 
 ## 📝 Data Source
 
@@ -190,7 +192,7 @@ If you cannot install Power BI Desktop:
 - Transaction-level sales data
 - 49 US states, 4 regions
 - 3 categories, 17 sub-categories
-- 1,850+ unique products
+- 1,849 unique products
 
 **Note**: Row ID count is used as a proxy for volume/frequency due to missing Quantity column in the dataset.
 
