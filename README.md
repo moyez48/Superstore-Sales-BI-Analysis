@@ -16,7 +16,6 @@ This project addresses sales inefficiencies caused by reactive, "one-size-fits-a
 Superstore-Sales-BI-Analysis/
 │
 ├── Superstore Sales Analysis.ipynb    # Main Jupyter notebook with full analysis
-├── create_executive_report.py         # Script to generate Word report
 ├── train.csv                          # Raw sales data
 ├── train_clean.csv                    # Cleaned dataset
 ├── BI Dashboard.pbix                  # Power BI dashboard file
