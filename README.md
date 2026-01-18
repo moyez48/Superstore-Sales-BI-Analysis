@@ -20,7 +20,6 @@ Superstore-Sales-BI-Analysis/
 ├── train_clean.csv                    # Cleaned dataset
 ├── BI Dashboard.pbix                  # Power BI dashboard file
 ├── Executive_Summary_Report_FINAL.docx # Executive summary document
-├── *_seasonality.png                  # Seasonality heatmaps (NY, CA, TX, FL)
 └── README.md                          # Project documentation
 ```
 
