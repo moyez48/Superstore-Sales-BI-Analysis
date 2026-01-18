@@ -19,7 +19,7 @@ Superstore-Sales-BI-Analysis/
 ├── train.csv                          # Raw sales data
 ├── train_clean.csv                    # Cleaned dataset
 ├── BI Dashboard.pbix                  # Power BI dashboard file
-├── Executive_Summary_Report_FINAL.docx # Executive summary document
+├── Executive_Summary_Report.docx # Executive summary document
 └── README.md                          # Project documentation
 ```
 
